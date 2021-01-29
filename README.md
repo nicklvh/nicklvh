@@ -9,8 +9,8 @@
 ---
 
 #### Tools, Databases and Languages: 
-  - **Languages:** JavaScript, TypeScript, Java, Lua, CSS/SCSS, HTML
-  - **Tools:** [Express](http://expressjs.com/), [ReactJS](https://reactjs.org/), [Discord.js](https://discord.js.org/), [Typeorm]
+  - **Languages:** [JavaScript](https://www.javascript.com/), [TypeScript](https://typescriptlang.org), [CSS/SCSS](https://www.w3schools.com/Css/), [HTML](https://www.w3schools.com/html/)
+  - **Tools:** [Express](http://expressjs.com/), [ReactJS](https://reactjs.org/), [Discord.js](https://discord.js.org/), [Typeorm](https://typeorm.io/)
   - **Databases:** [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://mongodb.com/)
   
 ---
