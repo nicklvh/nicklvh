@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Nick</h1>
-<h1 align="center">I'm a 14 year old developer</h1>
+<h3 align="center">I'm a 14 year old developer</h3>
 
 - I'm working on an image uploader called [PolarShare](http://polarshare.xyz)
 
