@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Nick</h1>
-<p align="center">I'm a 14 year old developer who uses JavaScript and TypeScript. I usually code discord bots but I have been starting to use Express more. I started developing when I learnt how to create a discord bot with discord.js</p>
+<p align="center">I'm a 14 year old developer who uses JavaScript and TypeScript. I usually code discord bots but I have been starting to use Express more. I started developing when I learnt how to create a discord bot with discord.js.</p>
 
 - 📷 I'm working on an image uploader called [**PolarShare**](http://polarshare.xyz) which is coming out soon!
 - 🤖 I'm also working on a discord bot called [**Rinet**](https://discord.com/api/oauth2/authorize?client_id=721740274958860348&permissions=8&scope=bot) which is made with love.
@@ -15,4 +15,6 @@
   
 ----
 
-You can contact me by adding me on discord: `nlck#1658`
+You can contact me by adding me on discord: `nlck#1658` or by joining my discord server [here](https://discord.gg/M7RyNDUDG7)
+
+[nicklvh](https://github.com/nicklvh/) 2021 &copy; 
