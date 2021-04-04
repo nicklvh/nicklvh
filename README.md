@@ -12,6 +12,6 @@
   
 ----
 
-You can contact me by adding me on discord: `nlck#1658` or by joining my discord server [here](https://discord.gg/M7RyNDUDG7)
+You can contact me by adding me on discord: `storm.#1337` or by joining my discord server [here](https://discord.gg/M7RyNDUDG7)
 
 [nicklvh](https://github.com/nicklvh/) 2021 &copy; 
