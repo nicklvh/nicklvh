@@ -1,5 +1,4 @@
-<h1 align="center">Hello! 👋 I'm Nick</h1>
-<p align="center">I'm a 14 year old developer who uses JavaScript and TypeScript. I usually code discord bots but I have been starting to use Express more. I started developing when I learnt how to create a discord bot with discord.js.</p>
+<h1 align="center">hello</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicklvh&show_icons=true&theme=tokyonight&locale=en" alt="nicklvh" /></p>
 
@@ -12,6 +11,6 @@
   
 ----
 
-You can contact me by adding me on discord: `storm.#1337` or by joining my discord server [here](https://discord.gg/M7RyNDUDG7)
+You can contact me by adding me on discord: `nick!#1000`
 
 [nicklvh](https://github.com/nicklvh/) 2021 &copy; 
