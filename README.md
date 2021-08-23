@@ -1,4 +1,4 @@
-<h1 align="center">hello</h1>
+<h1 align="center">Hello welcome to my github page</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicklvh&show_icons=true&theme=tokyonight&locale=en" alt="nicklvh" /></p>
 
@@ -11,6 +11,4 @@
   
 ----
 
-You can contact me by adding me on discord: `nick!#1000`
-
-[nicklvh](https://github.com/nicklvh/) 2021 &copy; 
+[nicklvh](https://github.com/nicklvh/)
