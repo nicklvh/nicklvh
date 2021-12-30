@@ -1,4 +1,4 @@
-<h1 align="center">Hello</h1>
+<h1 align="left">Hello</h1>
 
 hi! my name is nick. i like coding discord bots and i'm currently learning python.
 
