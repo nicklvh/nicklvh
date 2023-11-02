@@ -9,7 +9,11 @@ Welcome to my Github Profile!
   - **Tools:** [NestJS](https://nestjs.com), [Discord.js](https://discord.js.org/), [Prisma](https://www.prisma.io/)
 
 ### What am I currently working on?
-  - [**Joewy:**](https://github.com/nicklvh/joewy) My own personal discord bot, made with the [Sapphire](https://www.sapphirejs.dev/) framework. It will feature a dashboard integrated with the bot, and a lot of features. Joewy will be able to replace most bots, since it is so feature-packed. It will include a moderation system, customizable to your discord server's needs. 
+  - [**Joewy:**](https://github.com/nicklvh/joewy) My own personal discord bot, made with the [Sapphire](https://www.sapphirejs.dev/) framework. It will feature a dashboard integrated with the bot, and a lot of features. Joewy will be able to replace most bots, since it is so feature-packed. It will include a moderation system, customizable to your discord server's needs.
+  - **Portfolio:** Modern, sleek, uniform: My own custom portfolio. I'm making this to showcase my projects to the world and help you learn more about me. It'll be made in the NextJS framework, using Chakra UI.
+
+### Where can you contact me?
+  - Discord: @nicklvh
 
 ---
 
