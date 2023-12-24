@@ -14,7 +14,7 @@ Welcome to my Github Profile!
   - **Portfolio:** Modern, sleek, uniform: My own custom portfolio. I'm making this to showcase my projects to the world and help you learn more about me. It'll be made in the React framework, using Chakra UI.
 
 ### Where can you contact me?
-  - Discord: @nicklvh
+  - Discord: @iaqi
 
 ---
 
