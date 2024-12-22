@@ -2,16 +2,11 @@
 
 Welcome to my Github Profile!
 
-- I am an experienced professional backend developer (learning frontend) and I specialise in API work with JS/TS.
+- I am a backend developer but learning front-end work. I usually work with NodeJS, but I am trying to open myself up to new languages, such as Rust and Python.
 
-### What do I use?
-  - **Languages:** [TypeScript](https://typescriptlang.org), [Rust](https://www.rust-lang.org/) (learning)
-  - **Tools:** [NestJS](https://nestjs.com), [Discord.js](https://discord.js.org/), [Prisma](https://www.prisma.io/)
-
-### What am I currently working on?
-  - [**Joewy:**](https://github.com/nicklvh/joewy) My own personal discord bot, made with the [Sapphire](https://www.sapphirejs.dev/) framework. It will feature a dashboard integrated with the bot, and a lot of features. Joewy will be able to replace most bots, since it is so feature-packed. It will include a moderation system, customizable to your discord server's needs.
-  - [**Rusty:**](https://github.com/nicklvh/rusty) Another discord bot, but this time made in Rust. Focused on speed, Rusty can do anything you want it to do as fast as possible. It's focused on Economy features, for now.
-  - [**Portfolio:**](https://github.com/nicklvh/portfolio) My own portfolio. I'm making this to showcase my projects to the world and help you learn more about me. It's made in the Next.js framework, using Chakra UI.
+### What do I know?
+  - **Languages:** [TypeScript](https://typescriptlang.org)/[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org), [Rust](https://www.rust-lang.org/) (learning)
+  - **Tools:** [React](https://react.dev), [Discord.js](https://discord.js.org/), [Prisma](https://www.prisma.io/)
 
 ### Where can you contact me?
   - Discord: @iaqi
