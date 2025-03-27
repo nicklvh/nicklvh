@@ -7,5 +7,5 @@
   - **Tools:** [React](https://react.dev), [Discord.js](https://discord.js.org/), [Prisma](https://www.prisma.io/)
 
 ### Where can you contact me?
-  - Discord: `@iaqi`
+  - Discord: `@nicklvh`
   - Email: `filing_bendy0n@icloud.com`
